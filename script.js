@@ -12,6 +12,6 @@ function insert_Row() {
     var cell2 = newRow.insertCell(1);
 
     // Set the content of the cells (you can customize this)
-    cell1.innerHTML = "New Row Cell 1";
-    cell2.innerHTML = "New Row Cell 2";
+    cell1.innerHTML = "New Cell 1";
+    cell2.innerHTML = "New Cell 2";
 }
